@@ -1,0 +1,1 @@
+var main=main||function(){function n(){$(document).foundation()}return{init:n}}();main.init();
